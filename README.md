@@ -4,7 +4,7 @@ A game inspired by Pacman and other classic arcade games. Its purpose is to educ
 ![](turing_game.gif)
 
 # How to Play
-Download, extract, and run the executable [GAME SUMMATIVE.exe](https://github.com/lauradang/Piracy-Wars/blob/master/GAME%20SUMMATIVE.exe).
+Download, extract, and run the executable [GAME SUMMATIVE.exe](https://github.com/lauradang/Piracy-Wars/blob/master/GAME%20SUMMATIVE.exe) in the repo. Ensure the image [pirated.jpg](https://github.com/lauradang/Piracy-Wars/blob/master/pirated.jpg) is in the same folder as the executable.
 
 **Note:** This game only works on Windows. 
 
